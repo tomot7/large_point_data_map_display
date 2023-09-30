@@ -1,4 +1,4 @@
-# leaflet_practice
+# large_point_data_map_display
 
 ## Project setup
 ```
